@@ -27,4 +27,6 @@ Features of keysB42.ini:
 3. Aiming on (Shift) 
 4. ... other keybindins are default or none, which can be tweaked later editing the file or in options section in project zomboid.
 
+[![Watch the video](https://img.youtube.com/vi/e41DX5WxQqA/maxresdefault.jpg)](https://youtu.be/e41DX5WxQqA)
+
 
